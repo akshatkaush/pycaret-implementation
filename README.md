@@ -1,2 +1,2 @@
 # pycaret-implementation
-Explanation and usage of pycaret library for classification, regression and clustering
+Each notebook contains complete Explanation and usage of pycaret library for classification, regression and clustering. 
